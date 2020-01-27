@@ -1,4 +1,4 @@
-unit Hello;
+unit Unit3;
 
 interface
 
@@ -7,7 +7,7 @@ uses
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs;
 
 type
-  TForm4 = class(TForm)
+  TForm3 = class(TForm)
   private
     { Private declarations }
   public
@@ -15,7 +15,7 @@ type
   end;
 
 var
-  Form4: TForm4;
+  Form3: TForm3;
 
 implementation
 
